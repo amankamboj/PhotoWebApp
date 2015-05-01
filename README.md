@@ -12,4 +12,4 @@
 
 - First page is welcome page. You need to login to Instagram.
 
-- Once logged-in, on the next page you can popular photos from Instagram with all the details e.g username,likes,caption etc.
+- Upon successful  login, you can see popular photos from Instagram with all the details e.g username,likes,caption etc.
