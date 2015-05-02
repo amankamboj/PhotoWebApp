@@ -1,5 +1,9 @@
 # PhotoWebApp
 
+A simple web app for seeing popular photos from Instagram.
+
+Used [jInstagram](https://github.com/sachin-handiekar/jInstagram) Java library to access Instagram API.
+
 **Steps to be followed to run the project in local**
 
 - Import the project into eclipse.
